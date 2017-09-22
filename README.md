@@ -1,0 +1,2 @@
+# docs
+Wappler Docs
